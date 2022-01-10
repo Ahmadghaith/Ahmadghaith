@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ahmad Ghaith aka Altrøx</h1>
 <h3 align="center">A passionate programmer & music producer from Lebanon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadghaith" alt="ahmadghaith" /></a> </p>
-
 - 💬 Ask me about **anything you need to know**
 
 - 📫 How to reach me **ahmadghaith14@yahoo.com**
